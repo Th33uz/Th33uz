@@ -5,7 +5,7 @@
 <div align="center">
 
   <h3>
-    📚 Estudante de Engenharia de Software &nbsp;&nbsp;&nbsp;&nbsp; 🏋️ Sportlife e Musculação
+    📚 Estudante de Engenharia de Software &nbsp;&nbsp;&nbsp;&nbsp; 🏋️ Sportlife
   </h3>
 
   <h3>
