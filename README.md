@@ -5,7 +5,7 @@
 <div align="center">
 
   <h3>
-    📚 Estudante de Engenharia de Software &nbsp;&nbsp;&nbsp;&nbsp; 📆Scrum 
+    📚 Estudante de Engenharia de Software &nbsp;&nbsp;&nbsp;&nbsp; 🎲Banco de dados
   </h3>
 
   <h3>
