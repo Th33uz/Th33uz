@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="center"> Linguagens | Frameworks | IDE's</h2>
+<h2 align="center"> Stack </h2>
 
 ###
 
