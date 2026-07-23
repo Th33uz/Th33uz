@@ -23,9 +23,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cmais logo"  />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellij logo"  />
   <img width="12" />
