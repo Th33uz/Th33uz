@@ -15,7 +15,6 @@
 </div>
 
 ###
-
 <h2 align="center"> Stack </h2>
 
 ###
